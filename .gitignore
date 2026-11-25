@@ -1,0 +1,12 @@
+__pycache__/
+downloads/
+*.pyc
+.auth/
+.runtime/
+cookies.txt
+dist/
+build/
+/vendor/
+/tools/
+/.env
+/.env.*
